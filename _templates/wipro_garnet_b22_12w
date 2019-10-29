@@ -1,0 +1,13 @@
+---
+date: 2019-10-29
+title: Wipro Garnet B22 12W
+category: light
+type: Bulb
+standard: in
+link: https://www.amazon.in/gp/product/B07S5TH6BN
+image: https://images-na.ssl-images-amazon.com/images/I/719GDxqp4YL._SL1500_.jpg
+template: '{"NAME":"WiproSmartBulb","GPIO":[255,255,255,255,37,40,255,255,38,41,39,255,255],"FLAG":0,"BASE":18}'
+link_alt: 
+---
+
+Same as Wipro Garnet 9W RGBW B22 Bulb - but switched PWM4 and PWM5.
